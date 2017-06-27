@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/sourcey/s3-image-optimizer.git"
+    "url": "git@github.com:gauravrishi168/image.git"
   },
   "license": "MIT",
   "author": "Kam Low <auscaster@gmail.com> (http://sourcey.com/)",
